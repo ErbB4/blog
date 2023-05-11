@@ -8,3 +8,6 @@ photos:
    - path: "IMG_3014.JPG"
      title: "Göttingen, Germany, 2017"
      description: "Bernstein-Conference-travel-grants2"
+    - path: "poster_interplay.pdf"
+     title: "Marseille, France, 2023"
+     description: "In this poster you see the research project where we studied the interplay between homeostatic structural plasticity and homeostatic synaptic scalin."
