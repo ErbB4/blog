@@ -2,7 +2,7 @@
 # SEO settings
 title: Neuron Sketch
 description: "A blog about computational neuroscience"
-keywords: "computational neuroscience, NEST, network dynamics, recurrent network"
+keywords: "neural plasticity, computational neuroscience, optogenetics, non-invasive brain stimulation"
 url: http://hanlu.io
 baseurl: "/blog"
 # baseurl: null
@@ -34,10 +34,10 @@ collections:
 # Author settings
 author:
   name     : Han Lu # Also the name shown on the front page
-  job      : PhD Student # Also the profession shown on the front page
+  job      : Postdoctoral researcher # Also the profession shown on the front page
   bio      : "Neuroscience" # Also shown on the front page
   thumb    : /assets/images/author.jpg # change it as you wish
-  email    : luhan040710@foxmail.com
+  email    : hi@hanlu.io
   url      : http://hanlu.io
   github   : http://github.com/ErbB4
   #twitter  : http://twitter.com/nandomoreirame # change this
